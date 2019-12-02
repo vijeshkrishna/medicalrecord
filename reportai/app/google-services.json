@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392138749466",
+    "firebase_url": "https://mobile-radiology.firebaseio.com",
+    "project_id": "mobile-radiology",
+    "storage_bucket": "mobile-radiology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392138749466:android:8d2a441eb6e2405c",
+        "android_client_info": {
+          "package_name": "com.groundreality.visrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392138749466-lc317v6a8e9sitlg2s9ai7nk7amnvfp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGhvWZlhX45CRNSra_widbfV73T4wMIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392138749466-lc317v6a8e9sitlg2s9ai7nk7amnvfp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
